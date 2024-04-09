@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net7.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Mp3PlayerDemo_ka2eyygg_wpftmp
+build_property.ProjectDir = E:\WinterSemester\C#\Assignments\assignment1\Mp3PlayerDemo\Mp3PlayerDemo\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
